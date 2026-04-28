@@ -1,4 +1,4 @@
-# Useful GitHub Links
+# Useful Hospi Links
 
 ### Repository Resources
 * [Main Project Page GitHub](https://github.com/HospiPharma)
